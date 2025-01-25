@@ -9,7 +9,7 @@ This project predicts the likelihood of turbine failure using machine learning a
 - **src/**: Source code for the project, including model, preprocessing, and utility functions.
 - **requirements.txt**: Python dependencies.
 - **app.py**: Flask app for deployment.
-- **README.md**: Project description.
+
 
 ## Installation
 
