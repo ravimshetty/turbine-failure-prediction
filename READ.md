@@ -15,3 +15,15 @@ This project predicts the likelihood of turbine failure using machine learning a
 
 1. Clone the repository:
 
+git clone https://github.com/your-username/turbine-failure-prediction.git cd turbine-failure-prediction
+
+2. Install the dependencies:
+
+pip install -r requirements.txt
+
+## Usage
+
+1. To run the model, execute the following:
+python app.py
+
+2. For exploring the dataset and building the model, refer to the Jupyter notebooks in the `notebooks/` folder.
