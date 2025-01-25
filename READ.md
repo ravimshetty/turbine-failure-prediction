@@ -15,7 +15,7 @@ This project predicts the likelihood of turbine failure using machine learning a
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/turbine-failure-prediction.git cd turbine-failure-prediction
+git clone https://github.com/ravimshetty/turbine-failure-prediction.git cd turbine-failure-prediction
 
 2. Install the dependencies:
 
