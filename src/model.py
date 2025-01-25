@@ -60,6 +60,7 @@ def evaluate_model(model, X_test, y_test):
 def save_model(model, filename):
     joblib.dump(model, filename)
 
+
 # Function to load the model
 def load_model(filename):
     return joblib.load(filename)
